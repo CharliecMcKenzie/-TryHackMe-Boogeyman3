@@ -56,6 +56,7 @@ We also see that the attacker dumped the hashes on this second machine, revealin
 
 After gaining access to the domain controller, the attacker attempted to dump the hashes via a DCSync attack. The attacker dumped the ‘administrator’ and ‘backupda’ accounts.
 <p align="center">
+<img src="https://i.imgur.com/bIjZhyt.png" height="80%" width="80%" alt="dc"/>
 <img src="https://i.imgur.com/44EOAGm.png" height="80%" width="80%" alt="dcsync"/>
 
 After dumping the hashes, the attacker attempted to download another remote file to execute ransomware.  
