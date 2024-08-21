@@ -44,7 +44,7 @@ Following the Mimikatz trail reveals that after successfully dumping credentials
 
 Continuing to follow the Mimikatz trail reveals that after retrieving the contents of a remote file, the attacker used the new credentials to move laterally. The logs also show the hostname of the target machine during this lateral movement attempt. 
 <p align="center">
-<img src="https://i.imgur.com/T6rlZ7m.png" height="80%" width="80%" alt="allan"/>
+<img src="https://i.imgur.com/jgYXVD6.png" height="80%" width="80%" alt="allan"/>
 
 By filtering for ‘event.code 1’ using the hostname, we identified the parent process name of the malicious command that was executed. 
 <p align="center">
