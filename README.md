@@ -64,3 +64,4 @@ After dumping the hashes, the attacker attempted to download another remote file
 <img src="https://i.imgur.com/60Diono.png" height="80%" width="80%" alt="ransomboogey"/>
 
 ## Summary
+The challenge offers a realistic and detailed attack scenario that closely mirrors real-world threats, making it highly valuable for cybersecurity training. By simulating an investigation, you develop practical skills in using tools like ELK for log analysis, tracing malicious activity, and understanding complex attack chains. The challenge reinforces key cybersecurity concepts such as persistence mechanisms, credential dumping, lateral movement, and ransomware deployment.
